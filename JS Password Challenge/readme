@@ -1,0 +1,6 @@
+Password-Generator Readme
+My task for this challenge was to create a random password generator. 
+I accomplish this task by listing different array sets for each password criteria first. 
+Then i went on setting up the question prompts to be selected to meet those criterias. 
+Then i went on setting up functions that would generate a random password base on the "user" aggreement to the prompts that was required.
+Once each selection has been made, a random password will generate inside of the textbox. 
